@@ -10,6 +10,7 @@
 
 ## Repository Structure
 
+```
 dissertation-code/
 ├── README.md
 ├── LICENSE
@@ -27,3 +28,4 @@ dissertation-code/
 │   └── 03_metrics.ipynb
 └── slides/
     └── presentation.pdf
+```
